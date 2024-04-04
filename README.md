@@ -1,4 +1,6 @@
 # 高质量免费社工库机器人
+![](https://img.shields.io/badge/Telegram-2CA5E0?style=&logo=telegram&logoColor=white)
+
 Telegram（电报）社工库机器人，用于检查个人的隐私泄露情况。经过测试，已滤除数据库较老、使用门槛较高、NOT WORKING、结果匹配度低、停止维护、结果质量较低等机器人。
 
 **以下机器人可同时交叉使用，以获得更多检索次数**
