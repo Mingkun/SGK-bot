@@ -10,8 +10,13 @@ Telegram（电报）社工库机器人，用于检查个人的隐私泄露情况
 
 已安装注册Telegram的用户（下同）可直接通过[**传送门**](https://t.me/aishegongkubot?start=AISGK_TDW5DW2V)访问，根据机器人提示操作即可。
 
+## No. 1 （并列）: liemo （猎魔专用）
+数据库数据达90%覆盖读。可通过每日签到、邀请或充值获得积分。首次查询请参考[使用教程](https://telegra.ph/Bot%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-03-27)。
+
+可直接通过[**传送门**](https://t.me/hh_liemo_bot?start=6320564014)访问，根据机器人提示操作即可。
+
 ## No. 2: 叮当猫机器人
-数据库量大且全面，持续更新资料库以确保数据的准确性，支持多种形式的猎魔查询。可通过每日签到或充值获得积分。首次查询请参考[使用教程](https://ddcsgk-1.gitbook.io/ddcsgk)。
+数据库量大且全面，持续更新资料库以确保数据的准确性，支持多种形式的猎魔查询。可通过每日签到或充值（USDT支付）获得积分。首次查询请参考[使用教程](https://ddcsgk-1.gitbook.io/ddcsgk)。
 
 可直接通过[**传送门**](https://t.me/DingDangCats_Bot?start=da32b5e0856de475)访问，根据机器人提示操作即可。
 
